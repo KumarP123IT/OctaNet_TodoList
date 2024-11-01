@@ -39,10 +39,10 @@ A simple To-Do List application built with React and Node.js. This application a
 
 4. If using a server, navigate to the server directory and install dependencies:
 
-```bash
-   cd ../server
-   npm install
-```
+   ```bash
+      cd ../server
+      npm install
+   ```
 
 ## Usage
 
